@@ -1,0 +1,6 @@
+@Agua_Inteligente_Back_HostAddress = http://localhost:5163
+
+GET {{Agua_Inteligente_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
